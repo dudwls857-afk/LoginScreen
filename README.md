@@ -15,7 +15,7 @@
 ## 실행 화면 (과제1)
 - 과제1 코드의 실행 스크린샷
 
-  ![과제1 실행화면](img/screenshot-1.png)
+  ![과제1 실행화면](img/screenshot-1.png) (img/screenshot-2.png)
 
 - 과제 내용:
 	- Label(표시),TextBox(입력),Button(버튼)을 적절히 배치합니다.
